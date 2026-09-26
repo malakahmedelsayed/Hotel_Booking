@@ -184,3 +184,4 @@ Two Power BI files support this project:
 2. Load `hotel_bookings.csv` into SQL Server (or use `powerbi_cleaning.pbix` to reproduce the cleaning steps).
 3. Run `Hotel_Booking_SQL_Analysis.sql` against the resulting `dbo.HotelBookings` table.
 4. Open `Final_Project.pbix` in Power BI Desktop to explore the interactive dashboard.
+<img width="875" height="489" alt="Screenshot 2026-09-13 210119" src="https://github.com/user-attachments/assets/e4c14406-382e-4904-9ce5-9741f7cbef2c" />
