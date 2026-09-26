@@ -1,12 +1,5 @@
 #  Hotel Booking Analysis
 
-## Team Members
-- [ Malak rafaat 23011557] 
-- [malak ahmed 23011556] 
-- [Madawi mohammed 23011923] 
-- [malak rabie 23011558]  
-- [mariam alaa 2402242542 ]
-
 End-to-end data analytics project covering reservations at a **City Hotel** and a **Resort Hotel** (2015–2017), built with **Power Query**, **SQL Server**, and **Power BI**.
 
 > Data Cleaning (Power Query) · SQL Analysis · Power BI Dashboard
